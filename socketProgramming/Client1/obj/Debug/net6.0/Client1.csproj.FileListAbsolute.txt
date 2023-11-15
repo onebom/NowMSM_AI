@@ -1,0 +1,32 @@
+C:\Users\Owner\Desktop\gachon\Test2\Client1\bin\Debug\net6.0\Client1.exe
+C:\Users\Owner\Desktop\gachon\Test2\Client1\bin\Debug\net6.0\Client1.deps.json
+C:\Users\Owner\Desktop\gachon\Test2\Client1\bin\Debug\net6.0\Client1.runtimeconfig.json
+C:\Users\Owner\Desktop\gachon\Test2\Client1\bin\Debug\net6.0\Client1.dll
+C:\Users\Owner\Desktop\gachon\Test2\Client1\bin\Debug\net6.0\Client1.pdb
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.dll
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\refint\Client1.dll
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.pdb
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\Client1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\gachon\Test2\Client1\obj\Debug\net6.0\ref\Client1.dll
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\bin\Debug\net6.0\Client1.exe
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\bin\Debug\net6.0\Client1.deps.json
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\bin\Debug\net6.0\Client1.runtimeconfig.json
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\bin\Debug\net6.0\Client1.dll
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\bin\Debug\net6.0\Client1.pdb
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.csproj.AssemblyReference.cache
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.AssemblyInfoInputs.cache
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.AssemblyInfo.cs
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.csproj.CoreCompileInputs.cache
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.dll
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\refint\Client1.dll
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.pdb
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.genruntimeconfig.cache
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\ref\Client1.dll
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\82103\OneDrive\바탕 화면\CSsocketProgramming\Test2\Client1\obj\Debug\net6.0\Client1.csproj.CopyComplete
